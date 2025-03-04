@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureKeyVaultComparerLibrary", "AzureKeyVaultComparer\AzureKeyVaultComparerLibrary.csproj", "{DF7F479A-5496-4A46-923B-7830E693DB68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallerApp", "CallerApp\CallerApp.csproj", "{7333EC4E-877C-4665-B723-E5E740A384B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7F479A-5496-4A46-923B-7830E693DB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7F479A-5496-4A46-923B-7830E693DB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7F479A-5496-4A46-923B-7830E693DB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7F479A-5496-4A46-923B-7830E693DB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7333EC4E-877C-4665-B723-E5E740A384B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7333EC4E-877C-4665-B723-E5E740A384B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7333EC4E-877C-4665-B723-E5E740A384B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7333EC4E-877C-4665-B723-E5E740A384B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3762BB3A-B553-40D7-9541-57CF10425473}
+	EndGlobalSection
+EndGlobal
